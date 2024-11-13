@@ -1,7 +1,7 @@
 ---
 title: "Soma: Uses, Dosage, Side Effects, and More"
 description: "Soma is a muscle relaxant used to treat pain and stiffness caused by muscle spasms."
-date: 2024-11-13T06:30
+date: 2024-11-13T08:00
 thumb: "soma.jpg"
 keywords: ["Soma", "muscle relaxant", "pain relief", "medication", "dosage", "side effects"]
 tags: 
