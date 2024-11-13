@@ -25,7 +25,7 @@ The active ingredient in Tramadol is **Tramadol Hydrochloride**. It works by alt
 
 <p class="text-center my-4">
   <a href="https://www.optipharmacy.us" target="_blank">
-    <img src="https://imgur.com/IiAZAL8" alt="Advertisement Banner" class="mx-auto"/>
+    <img src="https://i.imgur.com/IiAZAL8.png" alt="Advertisement Banner" class="mx-auto"/>
   </a>
 </p>
 
