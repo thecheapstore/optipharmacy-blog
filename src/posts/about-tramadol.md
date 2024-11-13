@@ -23,11 +23,7 @@ Tramadol belongs to the class of drugs known as **opioid analgesics**. It is a s
 ### Active Ingredient
 The active ingredient in Tramadol is **Tramadol Hydrochloride**. It works by altering how the brain and nervous system respond to pain.
 
-<p class="text-center my-4">
-  <a href="https://www.optipharmacy.us" target="_blank">
-    <img src="https://i.ibb.co/Qr0qY7V/ads-banner.png" alt="Advertisement Banner" class="mx-auto" style="display:block; width:100%; max-width:300px; visibility: visible !important;" loading="eager"/>
-  </a>
-</p>
+[![Advertisement Banner](https://i.ibb.co/Qr0qY7V/ads-banner.png)](https://www.optipharmacy.us)
 
 ## Uses of Tramadol
 
