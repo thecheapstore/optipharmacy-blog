@@ -1,15 +1,15 @@
 [
     {
         "label": "About",
-        "url": "/about"
+        "url": "https://optipharmacy.us/about"
     },
     {
         "label": "Tag List",
         "url": "/tags"
     },
     {
-        "label": "GitHub",
-        "url": "https://github.com/daflh/vredeburg",
+        "label": "Opti Pharmacy",
+        "url": "https://optipharmacy.us/",
         "newTab": true
     }
 ]
