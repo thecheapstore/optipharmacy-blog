@@ -84,6 +84,28 @@ Understanding the risks and the benefits of Viagra will help you make an informe
 
 *Disclaimer: This blog is for informational purposes only. Always consult a healthcare provider before starting any medication.*
 
+<div class="flex justify-center space-x-4 mt-6">
+  <!-- WhatsApp -->
+  <a href="https://api.whatsapp.com/send?text={{ page.url | absolute_url }}" target="_blank" rel="noopener noreferrer" aria-label="Share on WhatsApp" class="hover:text-green-600">
+    <img src="https://i.imgur.com/Zp2wIRp.png" alt="WhatsApp" class="w-8 h-8">
+  </a>
+
+  <!-- Pinterest -->
+  <a href="https://pinterest.com/pin/create/button/?url={{ page.url | absolute_url }}" target="_blank" rel="noopener noreferrer" aria-label="Share on Pinterest" class="hover:text-red-600">
+    <img src="https://i.imgur.com/zO4tAwf.png" alt="Pinterest" class="w-8 h-8">
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url }}" target="_blank" rel="noopener noreferrer" aria-label="Share on Twitter" class="hover:text-blue-400">
+    <img src="https://i.imgur.com/cD9CrLv.png" alt="Twitter" class="w-8 h-8">
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" target="_blank" rel="noopener noreferrer" aria-label="Share on Facebook" class="hover:text-blue-600">
+    <img src="https://i.imgur.com/vKfPAc1.png" alt="Facebook" class="w-8 h-8">
+  </a>
+</div>
+
 ### Tags:
 - Viagra Benefits
 - Erectile Dysfunction Treatment
