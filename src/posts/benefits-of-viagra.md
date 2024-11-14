@@ -84,6 +84,35 @@ Understanding the risks and the benefits of Viagra will help you make an informe
 
 *Disclaimer: This blog is for informational purposes only. Always consult a healthcare provider before starting any medication.*
 
+<div class="social-share text-center">
+    <p>Share this page:</p>
+
+    <!-- WhatsApp -->
+    <a href="https://api.whatsapp.com/send?text=https://optipharmacyblog.netlify.app/benefits-of-viagra/" target="_blank" rel="noopener noreferrer">
+        Share on WhatsApp
+    </a>
+
+    <!-- Pinterest -->
+    <a href="https://www.pinterest.com/pin/create/button/?url=https://optipharmacyblog.netlify.app/benefits-of-viagra/" target="_blank" rel="noopener noreferrer">
+        Share on Pinterest
+    </a>
+
+    <!-- Twitter -->
+    <a href="https://twitter.com/intent/tweet?url=https://optipharmacyblog.netlify.app/benefits-of-viagra/" target="_blank" rel="noopener noreferrer">
+        Share on Twitter
+    </a>
+
+    <!-- Facebook -->
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https://optipharmacyblog.netlify.app/benefits-of-viagra/" target="_blank" rel="noopener noreferrer">
+        Share on Facebook
+    </a>
+
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/shareArticle?url=https://optipharmacyblog.netlify.app/benefits-of-viagra/" target="_blank" rel="noopener noreferrer">
+        Share on LinkedIn
+    </a>
+</div>
+
 ### Tags:
 - Viagra Benefits
 - Erectile Dysfunction Treatment
