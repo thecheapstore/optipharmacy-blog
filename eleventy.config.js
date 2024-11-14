@@ -28,3 +28,19 @@ module.exports = (config) => {
     markdownTemplateEngine: 'njk'
   };
 };
+const { URL } = require('url');
+
+module.exports = function (eleventyConfig) {
+  eleventyConfig.addFilter('absolute_url', (url, base) => {
+    // Define your base URL here if it's not defined in your environment variables
+    const baseURL = base || process.env.URL || 'https://optipharmacyblog.netlify.app';
+    return new URL(url, baseURL).toString();
+  });
+
+  return {
+    dir: {
+      input: "src",
+      output: "dist"
+    }
+  };
+};
