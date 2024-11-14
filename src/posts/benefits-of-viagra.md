@@ -82,7 +82,11 @@ Men who struggle with ED will find help in the drug: Viagra. The pill works by e
 
 Understanding the risks and the benefits of Viagra will help you make an informed decision whether it is the first time you are considering using the drug or simply a need to understand its advantages. There is a lot of information that is cautioned and has to be seen in detail.
 
+---
+
 *Disclaimer: This blog is for informational purposes only. Always consult a healthcare provider before starting any medication.*
+
+---
 
 <div class="social-share text-center">
     <p>Share this page:</p>

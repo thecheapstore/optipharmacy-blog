@@ -134,6 +134,38 @@ Purchase Tramadol Online in United States without prescription from a trusted ph
 
 ---
 
+<div class="social-share text-center">
+    <p>Share this page:</p>
+    <div class="flex justify-center space-x-4">
+
+        <!-- WhatsApp -->
+        <a href="https://api.whatsapp.com/send?text=https://optipharmacyblog.netlify.app/about-tramadol/" target="_blank" rel="noopener noreferrer" class="inline-block">
+            <img src="https://img.icons8.com/fluency/48/000000/whatsapp.png" alt="WhatsApp" style="width: 24px; height: 24px;">
+        </a>
+
+        <!-- Pinterest -->
+        <a href="https://www.pinterest.com/pin/create/button/?url=https://optipharmacyblog.netlify.app/about-tramadol/" target="_blank" rel="noopener noreferrer" class="inline-block">
+            <img src="https://img.icons8.com/fluency/48/000000/pinterest.png" alt="Pinterest" style="width: 24px; height: 24px;">
+        </a>
+
+        <!-- Twitter -->
+        <a href="https://twitter.com/intent/tweet?url=https://optipharmacyblog.netlify.app/about-tramadol/" target="_blank" rel="noopener noreferrer" class="inline-block">
+            <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" style="width: 24px; height: 24px;">
+        </a>
+
+        <!-- Facebook -->
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https://optipharmacyblog.netlify.app/about-tramadol/" target="_blank" rel="noopener noreferrer" class="inline-block">
+            <img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook" style="width: 24px; height: 24px;">
+        </a>
+
+        <!-- LinkedIn -->
+        <a href="https://www.linkedin.com/shareArticle?url=https://optipharmacyblog.netlify.app/about-tramadol/" target="_blank" rel="noopener noreferrer" class="inline-block">
+            <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" style="width: 24px; height: 24px;">
+        </a>
+
+    </div>
+</div>
+
 ### Tags :
 
 - Tramadol
