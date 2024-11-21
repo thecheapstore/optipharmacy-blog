@@ -85,7 +85,7 @@ The **active ingredient** in all of the divisions of xanax bars, which is always
 
 ---
 
-[![Advertisement Banner](https://i.ibb.co/Qr0qY7V/ads-banner.png)](https://www.optipharmacy.us)
+[![Advertisement Banner](/assets/img/ads-banner.png)](https://www.optipharmacy.us)
 
 ---
 
