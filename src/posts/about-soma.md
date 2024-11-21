@@ -23,7 +23,7 @@ Soma belongs to the class of drugs known as **muscle relaxants**. It works by bl
 ### Active Ingredient
 The active ingredient in Soma is **Carisoprodol**, which helps to reduce muscle pain and discomfort by acting on the central nervous system.
 
-[![Advertisement Banner](https://i.ibb.co/Qr0qY7V/ads-banner.png)](https://www.optipharmacy.us)
+[![Advertisement Banner](/assets/img/ads-banner.png)](https://www.optipharmacy.us)
 
 ## Uses of Soma
 
@@ -55,7 +55,7 @@ Soma is available as **oral tablets** of 250 mg and 350 mg.
 ### Overdose Information
 In case of overdose, **seek immediate medical help**. Symptoms may include confusion, drowsiness, and difficulty breathing.
 
-[![Advertisement Banner](https://i.ibb.co/Qr0qY7V/ads-banner.png)](https://www.optipharmacy.us)
+[![Advertisement Banner](/assets/img/ads-banner.png)](https://www.optipharmacy.us)
 
 ## Benefits of Soma
 
@@ -97,7 +97,7 @@ Soma has the potential for **abuse** and **dependence**, especially if taken for
 
 Soma is available for purchase with a **valid prescription** at pharmacies. You can also purchase it from **[OptiPharmacy](https://optipharmacy.us)**, a trusted online source for prescription medications.
 
-[![Advertisement Banner](https://i.ibb.co/Qr0qY7V/ads-banner.png)](https://www.optipharmacy.us)
+[![Advertisement Banner](/assets/img/ads-banner.png)](https://www.optipharmacy.us)
 
 ## Legal and Regulatory Information
 
@@ -186,3 +186,5 @@ Speak to your doctor today about whether Soma is the right option for your muscl
 - Soma for Back Pain
 - Soma Alternatives
 - Soma Usage
+
+[![Advertisement Banner](/assets/img/ads-banner.png)](https://www.optipharmacy.us)

@@ -23,7 +23,7 @@ Tramadol belongs to the class of drugs known as **opioid analgesics**. It is a s
 ### Active Ingredient
 The active ingredient in Tramadol is **Tramadol Hydrochloride**. It works by altering how the brain and nervous system respond to pain.
 
-[![Advertisement Banner](https://i.ibb.co/Qr0qY7V/ads-banner.png)](https://www.optipharmacy.us)
+[![Advertisement Banner](/assets/img/ads-banner.png)](https://www.optipharmacy.us)
 
 ## Uses of Tramadol
 
@@ -57,7 +57,7 @@ Tramadol is available in several forms, including:
 ### Overdose Information
 If an overdose is suspected, **seek emergency medical attention immediately**. Symptoms of overdose may include severe drowsiness, slow breathing, and loss of consciousness.
 
-[![Advertisement Banner](https://i.ibb.co/Qr0qY7V/ads-banner.png)](https://www.optipharmacy.us)
+[![Advertisement Banner](/assets/img/ads-banner.png)](https://www.optipharmacy.us)
 
 ## Benefits of Tramadol
 
@@ -99,7 +99,7 @@ Tramadol has a potential for **addiction** and **dependence**, so it should be u
 
 Tramadol is available for purchase with a **valid prescription** at various pharmacies. You can also purchase it from **[OptiPharmacy](https://optipharmacy.us)**, a trusted online source for prescription medications.
 
-[![Advertisement Banner](https://i.ibb.co/Qr0qY7V/ads-banner.png)](https://www.optipharmacy.us)
+[![Advertisement Banner](/assets/img/ads-banner.png)](https://www.optipharmacy.us)
 
 ## Legal and Regulatory Information
 
@@ -208,3 +208,5 @@ Purchase Tramadol Online in United States without prescription from a trusted ph
 - Tramadol Withdrawal Symptoms
 - Tramadol 100mg
 - Tramadol 200mg
+
+[![Advertisement Banner](/assets/img/ads-banner.png)](https://www.optipharmacy.us)

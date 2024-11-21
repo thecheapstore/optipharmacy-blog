@@ -20,7 +20,7 @@ Well, for those who did not know, Xanax bars are specific to the medication and 
 
 In most cases however, the images and designs of these tablets are handed over by the makers, these bars differ in colour, dosage strength and markings. Differences are slight but understanding of the mentioned markings fosters improved treatment plans for the patients or caregivers of the patients. 
 
-[![Advertisement Banner](https://i.ibb.co/Qr0qY7V/ads-banner.png)](https://www.optipharmacy.us)
+[![Advertisement Banner](/assets/img/ads-banner.png)](https://www.optipharmacy.us)
 
 ### There Are Four Different Types of Xanax Bars,  Which Are:
 
@@ -112,7 +112,7 @@ In the past few years a sudden explosion of “green red yellow blue bars” or 
 
 ---
 
-[![Advertisement Banner](https://i.ibb.co/Qr0qY7V/ads-banner.png)](https://www.optipharmacy.us)
+[![Advertisement Banner](/assets/img/ads-banner.png)](https://www.optipharmacy.us)
 
 ### Those who should not use Xanax Bars
 - All pregnant women or those who are breastfeeding.
@@ -127,7 +127,7 @@ In the past few years a sudden explosion of “green red yellow blue bars” or 
 ### Conclusion Remarks
 Even though the coloring may either be green, red, blue, or yellow, the endowments of the Xanax bars are the same. They are used for the same cause of alleviating panic disorders and anxiety attacks. In all cases, a medical practitioner should be consulted where the patient is advised of the appropriate dosages and whether the medicine is suitable for the patient in almost every case. 
 
-If you are planning to buy it online, please ensure that you do so through a portal like Opti Pharmacy that is highly rated and certified so that you know that you are buying authentic medicine.
+If you are planning to buy it online, please ensure that you do so through a portal like **[OptiPharmacy](https://optipharmacy.us)** that is highly rated and certified so that you know that you are buying authentic medicine.
 
 Since it is a narcotic-like drug, XANAX (Alprazolam) should be used in moderation and under supervision and should only be purchased from verified sources.
 
@@ -148,7 +148,7 @@ Xanax should only be used in the short term because they may lead to physical ad
 
 ---
 
-[![Advertisement Banner](https://i.ibb.co/Qr0qY7V/ads-banner.png)](https://www.optipharmacy.us)
+[![Advertisement Banner](/assets/img/ads-banner.png)](https://www.optipharmacy.us)
 
 ---
 
@@ -209,4 +209,4 @@ Xanax should only be used in the short term because they may lead to physical ad
 - Benzodiazepine Medications  
 - Xanax Variants
 
-[![Advertisement Banner](https://i.ibb.co/Qr0qY7V/ads-banner.png)](https://www.optipharmacy.us)
+[![Advertisement Banner](/assets/img/ads-banner.png)](https://www.optipharmacy.us)

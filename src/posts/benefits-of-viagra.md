@@ -27,7 +27,7 @@ Currently it is widely referred when speaking about a pill that supports men ach
 ### What Is The Mechanism Of Action Of Viagra?
 Viagra is classified as a PDE5 inhibitor, which implies that it undermines an enzyme that has the potential to limit blood circulation to certain areas of the body including the penis. It has also been established that when this enzyme is blocked, blood flow is enhanced, and when combined with sexual arousal, Viagra makes it possible for an erection to occur. Typically, one will see results from the use of Viagra **within 30 to 60 minutes** and this will last for up to four hours and this helps in bringing more spontaneity in delicate moments.
 
-[![Advertisement Banner](https://i.ibb.co/Qr0qY7V/ads-banner.png)](https://www.optipharmacy.us)
+[![Advertisement Banner](/assets/img/ads-banner.png)](https://www.optipharmacy.us)
 
 ## Major Advantages Of Viagra
 
@@ -74,7 +74,7 @@ Currently, Viagra is not FDA-approved for women, though there is ongoing researc
 ### Where can I buy the pill Viagra?
 Viagra is available for purchase with a **valid prescription** at pharmacies. You can also purchase it from **[OptiPharmacy](https://optipharmacy.us)**, a trusted online source for prescription medications.
 
-[![Advertisement Banner](https://i.ibb.co/Qr0qY7V/ads-banner.png)](https://www.optipharmacy.us)
+[![Advertisement Banner](/assets/img/ads-banner.png)](https://www.optipharmacy.us)
 
 ## Summary
 
@@ -139,4 +139,4 @@ Understanding the risks and the benefits of Viagra will help you make an informe
 - Male Sexual Health
 - Improve Erection
 
-[![Advertisement Banner](https://i.ibb.co/Qr0qY7V/ads-banner.png)](https://www.optipharmacy.us)
+[![Advertisement Banner](/assets/img/ads-banner.png)](https://www.optipharmacy.us)
