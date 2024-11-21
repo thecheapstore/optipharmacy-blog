@@ -77,7 +77,7 @@ In most cases however, the images and designs of these tablets are handed over b
 ### Does Color make any Difference in the Efficiency?
 The **active ingredient** in all of the divisions of xanax bars, which is always the focus of one of the variants, the **alprazolam**, remains constant for all the products irrespective of the brand or color or form of bars. The color differences are just for manufacturer orientation and marketing purposes. That said:
 
-- There are a **Dosage difference** between the dosages offered (e.g., blue bars = 1 mg, green/yellow to red bars = 2 mg, up to 5 mg red). Note: this does not apply on dosage where the dosage features reflect the dosage as per label on product dosage although it's not for all identical products but it's applicable for most cases as generally applicable. 2 - .07 2.1 -.05 2.5 - 0 5 eco - 3.2 3.
+- There are a **Dosage difference** between the dosages offered (e.g., blue bars = 1 mg, green/yellow to red bars = 2 mg, up to 5 mg red). Note: this does not apply on dosage where the dosage features reflect the dosage as per label on product dosage although it's not for all identical products but it's applicable for most cases as generally applicable.
 
 - There are some **Recognition that cannot be completed** but always be ready to complete it or identify popular features e. g.: colors, shape, and imprints, for example, they assist people in memorizing specific brands or doses of tablets. 
 
